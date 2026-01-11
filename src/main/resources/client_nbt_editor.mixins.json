@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "package": "com.example.clientnbteditor.mixin",
+    "compatibilityLevel": "JAVA_25",
+    "mixins": [
+        "InventoryScreenMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
