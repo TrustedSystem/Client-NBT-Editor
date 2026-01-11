@@ -6,3 +6,5 @@ There are 2 commands in the mod:
 If you edit a item in any slot and press "Save", the new item will be put into the most left slot in the inventory. I will fix that soon.
 /seestorage is a normal container preview command, it will be possible to change item locations soon.
 More features to be added in the near future.
+
+The mod REQUIRES Java 25 and Fabric version 0.18.4+.
