@@ -1,1 +1,1 @@
-Gemini AI License
+Gemini Twins License
