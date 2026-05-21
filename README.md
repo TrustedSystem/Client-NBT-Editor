@@ -1,4 +1,4 @@
-# SysetemNBTEditor
+# SystemNBTEditor
 An advanced NBT Utility tool with unique features in mind. 
 
 There are 2 commands in the mod:
